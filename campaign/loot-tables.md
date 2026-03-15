@@ -1,67 +1,39 @@
-# D&D 5e Loot Tables
+# The Veil's Edge Loot Tables
 
-## Level Range 1-4
+These tables provide quick reference for treasure found in *The Veil’s Edge* campaign.
 
-### Common Items:
-- Leather armor (AC 13)
-- Short sword +1
-- Dagger +1
-- Shield of Faith (magical shield, AC bonus +2 vs. undead)
+## 1. Gold & Currency
+| Amount | Description |
+|--------|-------------|
+| 10 gp | Common trinket |
+| 50 gp | Small pouch of coins |
+| 100 gp | Standard purse |
+| 500 gp | Bag of gold coins |
+| 1,000 gp | Heavy purse |
 
-### Magic Items:
-- Potion of healing x3
-- Potion of fireball x1
-- Potion of invisibility x1
+## 2. Gems & Precious Stones
+| Gem Type | Rarity | Value (gp) |
+|----------|--------|------------|
+| Common | Common | 50-200 |
+| Uncommon | Uncommon | 201-500 |
+| Rare | Rare | 501-1,000 |
+| Very Rare | Very Rare | 1,001-5,000 |
 
-## Level Range 5-10
+## 3. Magic Items (Optional) – Tiered by Rarity
+### Common
+- **Potion of Healing** – restores 2d4+2 hp.
+- **Wand of Light** – one use per day, light source.
 
-### Uncommon Items:
-- Chainmail armor (AC 14)
-- Longsword +2
-- Dwarven waraxe +2
-- Shield +1
+### Uncommon
+- **Cloak of Protection** – +1 AC and saving throws.
+- **Ring of Evasion** – once per long rest, halve damage on a successful Dex save.
 
-### Magic Items:
-- Ring of protection +1
-- Amulet of health regeneration
-- Scroll of magic missile x3
-- Potion of flying x1
+### Rare
+- **+1 Weapon** – adds +1 to attack and damage.
+- **Boots of Elvenkind** – stealth advantage in forest.
 
-## Level Range 11-16
+### Very Rare
+- **Amulet of Health** – sets Con to 19.
+- **Bag of Holding** – extra 64 cu ft capacity.
 
-### Rare Items:
-- Plate armor (AC 15)
-- Greatsword +3
-- Elven bow +3
-- Shield +2
-
-### Magic Items:
-- Cloak of resistance +2
-- Amulet of health regeneration (enhanced)
-- Scroll of fireball x5
-- Potion of flying (extended duration)
-
-## Level Range 17-20
-
-### Very Rare Items:
-- Adamantite plate armor (AC 16)
-- Greatsword +4
-- Elven bow +4
-- Shield +3
-
-### Magic Items:
-- Cloak of resistance +3
-- Amulet of health regeneration (ultimate)
-- Scroll of fireball x10
-- Potion of flying (permanent)
-
-## Legendary Items:
-
-1. **The Iron Crown** - A magical crown that grants temporary control over iron and steel, but corrupts the wearer's mind
-2. **The Whispering Orb** - A crystal orb that speaks with cryptic messages from beyond reality
-3. **Planar Key** - An artifact that allows passage between planes
-
-## Unique Items:
-
-1. **Veil Fragment** - A piece of the cosmic barrier, granting temporary resistance to magical attacks
-2. **Weaving Mind's Thread** - A magical thread that can bind entities across dimensions
+Feel free to tweak values or add more items as the campaign evolves. This file is ready for commit and push.
