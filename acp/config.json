@@ -1,0 +1,6 @@
+{
+  "defaultAgent": "claude-code",
+  "allowedAgents": ["claude-code"],
+  "timeout": 3600,
+  "sandboxMode": true
+}
